@@ -15,7 +15,7 @@
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
-		<start-class>com.example.springboot.HelloController</start-class>
+		<start-class>com.example.springboot.Application</start-class>
 	</properties>
 	<dependencies>
 		<dependency>
